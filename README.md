@@ -1,0 +1,2 @@
+# dear
+sistem menang awal
